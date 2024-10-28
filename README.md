@@ -2,6 +2,12 @@
 
 This DevOps project focuses on deploying an end-to-end application onto a Kubernetes (K8s) cluster with HTTPS and GitOps practices. We utilize GitHub Actions for continuous integration and Argo CD for continuous delivery.
 
+--- 
+
+![devops drawio](https://github.com/user-attachments/assets/45a7ecd6-edb3-4536-9283-381a61d04df5)
+
+---
+
 ## Key Components
 
 - **HTTPS:** Managed with Cert-Manager and Gateway API, eliminating the need for traditional ingresses while providing additional functionalities.
